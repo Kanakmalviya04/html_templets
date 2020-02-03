@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title></title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<div class="bgimage">
+<div class="menu">
+<div class="leftmenu">
+<h4>THAPATECHNICAL</h4>
+</div>
+<div class="rightmenu">
+<ul>
+<li>HOME</li>
+<li>SERVICES</li>
+<li>WORKS</li>
+<li>BLOGS</li>
+<li>ABOUT US</li>
+<li>CONTACT</li>
+</ul>
+</div>
+<div class="text">
+<h4> DESIGN * DEVELOPMENT * BRANDING </h4>
+<h1> CREATED & EXPERIENCE </h1>
+<h3> WE ARE THE ONE OF THE WORLD'S TOP CREATIVE DESIGN AGENCIES.</h3>
+<button id="b1">like share</button>
+<button id="b2">subscribe</button>
+</div>
+</div>
+</body>
+</html>
+
